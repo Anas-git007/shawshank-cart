@@ -1,7 +1,3 @@
-Here's a suitable description for your GitHub repository based on the provided report:  
-
----
-
 # 🛒 Online Shopping Cart - OOP Project  
 
 ## 📌 Overview  
